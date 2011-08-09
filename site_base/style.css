@@ -7,22 +7,9 @@
 	/* Sans serif. In preference order. 
 	Helvetica=Mac default, Verdana=Win default, Meiryo=JA Vista UI, Hiragino Kaku Gothic = JA Mac default, MS Gothic=JA Win XP, sans-serif=Default failover */
 }
-#content {
-	width: 50em;
-	margin: 0 auto;   /* align for good browsers */
-	text-align: left; /* counter the body center */
-}
-a {color:#ff8800;text-decoration:none}
-a:hover {color:#ff8800;text-decoration:underline}
-a:visited {color:#ff8800}
-a:active {color:#ff8800}
 
 img{
 	border:0;
-}
-table td{
-	vertical-align: top;
-	text-align:justify;
 }
 hr{
 	border:0;
@@ -67,20 +54,25 @@ div.nav ul li a:hover{
 	background-color:black;
 	display: inline;
 }
-.infobox{
-	line-height:200%;
-}
-.infobox table td{
-	line-height:200%;
-}
-#roles{
 
+#content {
+	width: 50em;
+	margin: 0 auto;   /* align for good browsers */
+	text-align: left; /* counter the body center */
 }
-td.rightcolumn{
-	text-align:center;
-	width:1%;
-	padding-left:2em;
-}
-small {
 
-}
+.videobox{float:right;width:580px}
+.videosidebox{font-size:12px;float:left;width:200px}
+
+.contentstrip{width:15em;height:500px;float:left;padding-left:1em;padding-right:1em}
+.contentstripleft{padding-left:0em;border-right:1px black solid}
+.contentstripcenter{}
+.contentstripright{padding-right:0em;border-left:1px black solid}
+
+.twtr-hd{display:none}
+.twtr-ft{display:none}
+
+a {color:#ff8800;text-decoration:none}
+a:hover {color:#ff8800;text-decoration:underline}
+a:visited {color:#ff8800}
+a:active {color:#ff8800}

@@ -12,7 +12,7 @@ This site attempts to:
 /bio/ Show my self love though showing my abilities, experience and personal history. Be a storyteller. - This builds trust
 /work/ Show how I can help *YOU*, the user. Shows how I contribute to the world.
 Optionally:
-/play/ Let's the user play with "lack of control" for a little. (Or, less ideally, could show how I do so)
+/play/ Show how I play with "lack of control". Lets others try too.
 
 
 How to connect:
@@ -27,3 +27,14 @@ How to connect:
 ---
 
 really liking yourself. really, truly connecting. really caring about others
+
+
+---
+
+A different site:
+Allow users to:
+Connect deeply with me and each other.
+Allow self love, let them show their skills, and tell a story, etc.
+Allow users to contribute, to care for things through their work.
+Allow the users to play, to try a little "lack of control". :)
+ 
