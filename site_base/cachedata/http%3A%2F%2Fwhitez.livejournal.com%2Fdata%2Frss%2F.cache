@@ -1,0 +1,294 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!--  If you are running a bot please visit this policy page outlining rules you must respect. http://www.livejournal.com/bots/  -->
+<rss version='2.0' xmlns:lj='http://www.livejournal.org/rss/lj/1.0/' xmlns:media='http://search.yahoo.com/mrss/' xmlns:atom10='http://www.w3.org/2005/Atom'>
+<channel>
+  <title>(English）Jonathan Waller</title>
+  <link>http://whitez.livejournal.com/</link>
+  <description>(English）Jonathan Waller - LiveJournal.com</description>
+  <lastBuildDate>Thu, 23 Sep 2010 07:44:43 GMT</lastBuildDate>
+  <generator>LiveJournal / LiveJournal.com</generator>
+  <lj:journal>whitez</lj:journal>
+  <lj:journalid>3085344</lj:journalid>
+  <lj:journaltype>personal</lj:journaltype>
+  <atom10:link rel='hub' href='http://pubsubhubbub.appspot.com/' />
+  <image>
+    <url>http://l-userpic.livejournal.com/106773171/3085344</url>
+    <title>(English）Jonathan Waller</title>
+    <link>http://whitez.livejournal.com/</link>
+    <width>100</width>
+    <height>100</height>
+  </image>
+
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/65620.html</guid>
+  <pubDate>Thu, 23 Sep 2010 07:44:43 GMT</pubDate>
+  <title>An ambitious project.</title>
+  <link>http://whitez.livejournal.com/65620.html</link>
+  <description>(TOP (S (NP (UH Hmmm,) (NNP English) (NN grammar)) (VP (VBZ is) (ADJP (ADJP (ADVP (RB much) (RBR&lt;br /&gt;more)) (JJ complicated)) (PP (IN than) (NP (PRP I))))) (. thought.)))</description>
+  <comments>http://whitez.livejournal.com/65620.html</comments>
+  <category>computing</category>
+  <lj:mood>worky</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>2</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/65269.html</guid>
+  <pubDate>Mon, 05 Jul 2010 13:22:42 GMT</pubDate>
+  <title>The right tool for the job</title>
+  <link>http://whitez.livejournal.com/65269.html</link>
+  <description>My most recent program includes this regular expression:&lt;br /&gt;&lt;br /&gt;[|.!]\s*((((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))|(((&quot;(([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))&quot;)|(&apos;(([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))&apos;))|((&quot;([0-9]+(st|nd|rd|th)*)&quot;)|(&apos;([0-9]+(st|nd|rd|th)*)&apos;)))|((&quot;(((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))( ((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*)))+)&quot;)|(&apos;(((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))( ((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*)))+)&apos;)))(,? (((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))|(((&quot;(([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))&quot;)|(&apos;(([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))&apos;))|((&quot;([0-9]+(st|nd|rd|th)*)&quot;)|(&apos;([0-9]+(st|nd|rd|th)*)&apos;)))|((&quot;(((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))( ((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*)))+)&quot;)|(&apos;(((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*))( ((([A-Za-z]+)|([A-Za-z]+[-&apos;][A-Za-z]+))|([0-9]+(st|nd|rd|th)*)))+)&apos;))))+\.)&lt;br /&gt;&lt;br /&gt;Geek brownie points if you can figure out what it does. :)</description>
+  <comments>http://whitez.livejournal.com/65269.html</comments>
+  <category>programming</category>
+  <lj:mood>chocolate-filled</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>11</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/64805.html</guid>
+  <pubDate>Tue, 15 Jun 2010 09:04:56 GMT</pubDate>
+  <title>The future</title>
+  <link>http://whitez.livejournal.com/64805.html</link>
+  <description>Where do you see me in 10 years?</description>
+  <comments>http://whitez.livejournal.com/64805.html</comments>
+  <category>life</category>
+  <lj:mood>happy</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>5</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/64528.html</guid>
+  <pubDate>Sat, 05 Jun 2010 00:24:29 GMT</pubDate>
+  <title>Watercolour by Pendulum rocks so hard.</title>
+  <link>http://whitez.livejournal.com/64528.html</link>
+  <description>Watch in fullscreen.&lt;br /&gt;&lt;br /&gt;&lt;lj-embed id=&quot;15&quot; /&gt;&lt;p&gt;&lt;a href=&quot;http://vimeo.com/10637389&quot; rel=&quot;nofollow&quot;&gt;Pendulum / Watercolour&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/estebandiacono&quot; rel=&quot;nofollow&quot;&gt;Esteban Diácono&lt;/a&gt; on &lt;a href=&quot;http://vimeo.com&quot; rel=&quot;nofollow&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</description>
+  <comments>http://whitez.livejournal.com/64528.html</comments>
+  <category>happiness</category>
+  <lj:mood>energetic</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>4</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/64507.html</guid>
+  <pubDate>Thu, 03 Jun 2010 10:20:02 GMT</pubDate>
+  <title>Last weekend</title>
+  <link>http://whitez.livejournal.com/64507.html</link>
+  <description>&lt;center&gt;&lt;lj-embed id=&quot;14&quot; /&gt;&lt;/center&gt;</description>
+  <comments>http://whitez.livejournal.com/64507.html</comments>
+  <category>happiness</category>
+  <lj:mood>happy</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/64251.html</guid>
+  <pubDate>Sun, 23 May 2010 01:54:01 GMT</pubDate>
+  <title>Twitter</title>
+  <link>http://whitez.livejournal.com/64251.html</link>
+  <description>Hello everyone!&lt;br /&gt;&lt;br /&gt;Please add me on twitter. o(^-^)o&lt;br /&gt;&lt;br /&gt;&lt;a href=&apos;http://www.twitter.com/jonwaller&apos; rel=&apos;nofollow&apos;&gt;http://www.twitter.com/jonwaller&lt;/a&gt;</description>
+  <comments>http://whitez.livejournal.com/64251.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/63837.html</guid>
+  <pubDate>Fri, 02 Apr 2010 03:07:58 GMT</pubDate>
+  <title>12.8 Km</title>
+  <link>http://whitez.livejournal.com/63837.html</link>
+  <description>Every moment is another chance.</description>
+  <comments>http://whitez.livejournal.com/63837.html</comments>
+  <category>snippet</category>
+  <lj:mood>happy</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/63674.html</guid>
+  <pubDate>Wed, 24 Mar 2010 03:27:21 GMT</pubDate>
+  <title>An English question...</title>
+  <link>http://whitez.livejournal.com/63674.html</link>
+  <description>How should the sentences below be rewritten to have the grammar make sense?&lt;br /&gt;&lt;br /&gt;Is your name &quot;Jonathan Waller&quot;?&lt;br&gt;&lt;br&gt;&lt;br /&gt;No? Well glance below at the lucky people who are.&lt;br /&gt;&lt;br /&gt;[Follows is a list of people named &quot;Jonathan Waller&quot;]</description>
+  <comments>http://whitez.livejournal.com/63674.html</comments>
+  <category>english</category>
+  <lj:mood>happy</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>1</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/63368.html</guid>
+  <pubDate>Sat, 13 Mar 2010 00:15:50 GMT</pubDate>
+  <title>My most recent purchase</title>
+  <link>http://whitez.livejournal.com/63368.html</link>
+  <description>&lt;div align=&quot;center&quot;&gt;&lt;img src=&quot;http://remote.tanosgroup.com/livejournal/newhulahoop.jpg&quot; /&gt;&lt;/div&gt;</description>
+  <comments>http://whitez.livejournal.com/63368.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>6</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/62997.html</guid>
+  <pubDate>Sun, 07 Mar 2010 14:50:17 GMT</pubDate>
+  <title>Thought for the day</title>
+  <link>http://whitez.livejournal.com/62997.html</link>
+  <description>Real happiness is loving what you do.</description>
+  <comments>http://whitez.livejournal.com/62997.html</comments>
+  <category>snippet</category>
+  <lj:security>public</lj:security>
+  <lj:reply-count>2</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/62548.html</guid>
+  <pubDate>Sat, 27 Feb 2010 15:04:36 GMT</pubDate>
+  <title>Glow</title>
+  <link>http://whitez.livejournal.com/62548.html</link>
+  <description>Welcome to &lt;a href=&quot;http://tokyoglow.com/hd.html&quot; rel=&quot;nofollow&quot;&gt;Tokyo&lt;/a&gt;.</description>
+  <comments>http://whitez.livejournal.com/62548.html</comments>
+  <category>snippet</category>
+  <lj:mood>anew</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/61799.html</guid>
+  <pubDate>Sat, 30 Jan 2010 05:27:35 GMT</pubDate>
+  <title>迷子になろうよ</title>
+  <link>http://whitez.livejournal.com/61799.html</link>
+  <description>In the Ghibli museum!</description>
+  <comments>http://whitez.livejournal.com/61799.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/61441.html</guid>
+  <pubDate>Fri, 29 Jan 2010 08:03:55 GMT</pubDate>
+  <title>Work-life balance</title>
+  <link>http://whitez.livejournal.com/61441.html</link>
+  <description>Oh no, it&apos;s the weekend. Well, only two days till I can go back to work again. :)&lt;br /&gt;&lt;br /&gt;(Sound strange? Maybe you need a new job.)</description>
+  <comments>http://whitez.livejournal.com/61441.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>4</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/61341.html</guid>
+  <pubDate>Fri, 22 Jan 2010 23:21:41 GMT</pubDate>
+  <title>Note to self: Must pay attention</title>
+  <link>http://whitez.livejournal.com/61341.html</link>
+  <description>I&apos;ve just noticed my processor is 64 bit.&lt;br /&gt;&lt;br /&gt;And I&apos;ve had the laptop for over two years... (^_^;)</description>
+  <comments>http://whitez.livejournal.com/61341.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>2</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/60943.html</guid>
+  <pubDate>Wed, 13 Jan 2010 11:46:55 GMT</pubDate>
+  <title>Google stops censorship for China</title>
+  <link>http://whitez.livejournal.com/60943.html</link>
+  <description>&lt;a href=&quot;http://googleblog.blogspot.com/2010/01/new-approach-to-china.html&quot; rel=&quot;nofollow&quot;&gt;http://googleblog.blogspot.com/2010/01/new-approach-to-china.html&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This will be big. Whichever way it goes.&lt;br /&gt;&lt;br /&gt;It seems to me, China can only block the new, complete Google search, and then 30% of Chinese people lose their main search engine. The other search engines are then seen to be clearly siding with China, censoring results.&lt;br /&gt;&lt;br /&gt;Google gets their &quot;non evil&quot; reputation back again, and lots of Chinese people become very aware of the censored world they are living in. If there&apos;s enough anger, maybe there will be real change...</description>
+  <comments>http://whitez.livejournal.com/60943.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/60769.html</guid>
+  <pubDate>Tue, 12 Jan 2010 02:56:23 GMT</pubDate>
+  <title>Thought for the day.</title>
+  <link>http://whitez.livejournal.com/60769.html</link>
+  <description>Excitement is growth.</description>
+  <comments>http://whitez.livejournal.com/60769.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>1</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/60465.html</guid>
+  <pubDate>Sat, 09 Jan 2010 04:00:10 GMT</pubDate>
+  <title>Sick of the snow?</title>
+  <link>http://whitez.livejournal.com/60465.html</link>
+  <description>Come to Japan, it&apos;s beautifully sunny. :)</description>
+  <comments>http://whitez.livejournal.com/60465.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>2</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/60307.html</guid>
+  <pubDate>Thu, 24 Dec 2009 01:53:59 GMT</pubDate>
+  <title>More than a movie</title>
+  <link>http://whitez.livejournal.com/60307.html</link>
+  <description>Avatar is a masterpiece. See it if you can.</description>
+  <comments>http://whitez.livejournal.com/60307.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/59917.html</guid>
+  <pubDate>Wed, 09 Dec 2009 06:53:19 GMT</pubDate>
+  <title>It&apos;s not the Fray.</title>
+  <link>http://whitez.livejournal.com/59917.html</link>
+  <description>Statistically, if you pay $247.27 to &lt;a href=&quot;http://www.charitywater.org/&quot; rel=&quot;nofollow&quot;&gt;Charity: Water&lt;/a&gt;, you save a person&apos;s life.</description>
+  <comments>http://whitez.livejournal.com/59917.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/59842.html</guid>
+  <pubDate>Mon, 07 Dec 2009 15:06:30 GMT</pubDate>
+  <title>Addicted again</title>
+  <link>http://whitez.livejournal.com/59842.html</link>
+  <description>I&apos;ve been doing a lot of programming recently. Unable to sleep thinking about apps, reading up on new ideas.&lt;br /&gt;&lt;br /&gt;I made this &lt;a href=&quot;http://research.tanos.co.uk/commonsense/&quot; rel=&quot;nofollow&quot;&gt;common sense viewer&lt;/a&gt; too. You can try your own words.&lt;br /&gt;&lt;br /&gt;&lt;center&gt;&lt;a href=&quot;http://www.research.att.com/~north/cgi-bin/webdot/webdot.cgi/http://research.tanos.co.uk/commonsense/viewer/temp_currentConcept.dot.dot.png&quot; rel=&quot;nofollow&quot;&gt;&lt;img src=&quot;http://www.research.att.com/~north/cgi-bin/webdot/webdot.cgi/http://research.tanos.co.uk/commonsense/viewer/temp_currentConcept.dot.dot.png&quot; style=&quot;max-width:700px;max-height:500px;&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;small&gt;Click for big&lt;/small&gt;&lt;/center&gt;&lt;br /&gt;There are more apps coming. Yay! :)</description>
+  <comments>http://whitez.livejournal.com/59842.html</comments>
+  <category>computing</category>
+  <lj:mood>happy</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>4</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/59267.html</guid>
+  <pubDate>Tue, 17 Nov 2009 23:24:49 GMT</pubDate>
+  <title>Genki da naa</title>
+  <link>http://whitez.livejournal.com/59267.html</link>
+  <description>Good morning!&lt;br /&gt;&lt;br /&gt;It&apos;s another beautiful day in Japan.</description>
+  <comments>http://whitez.livejournal.com/59267.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>2</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/58900.html</guid>
+  <pubDate>Fri, 06 Nov 2009 03:57:28 GMT</pubDate>
+  <title>Thought for the day</title>
+  <link>http://whitez.livejournal.com/58900.html</link>
+  <description>Man plans. God laughs.</description>
+  <comments>http://whitez.livejournal.com/58900.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/58737.html</guid>
+  <pubDate>Sat, 31 Oct 2009 06:15:36 GMT</pubDate>
+  <title>Where&apos;s the walkthrough?</title>
+  <link>http://whitez.livejournal.com/58737.html</link>
+  <description>Apparently, life is a game.</description>
+  <comments>http://whitez.livejournal.com/58737.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/58489.html</guid>
+  <pubDate>Sat, 10 Oct 2009 05:17:14 GMT</pubDate>
+  <title>And yes indeed, you can do whatever you want with your life...</title>
+  <link>http://whitez.livejournal.com/58489.html</link>
+  <description>&lt;lj-embed id=&quot;13&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Awesome public speaker... with tourettes.&lt;br /&gt;&lt;br /&gt;And as an extra... &lt;a href=&quot;http://www.npr.org/templates/story/story.php?storyId=15425125&quot; rel=&quot;nofollow&quot;&gt;a stage actor with a stutter&lt;/a&gt;, &lt;a href=&quot;http://www.lifewithoutlimbs.org/stuff.php&quot; rel=&quot;nofollow&quot;&gt;a swimmer with no limbs&lt;/a&gt;, and &lt;a href=&quot;http://en.wikipedia.org/wiki/Helen_Keller&quot; rel=&quot;nofollow&quot;&gt;a deaf spanish-as-a-second language speaker&lt;/a&gt;.</description>
+  <comments>http://whitez.livejournal.com/58489.html</comments>
+  <category>happiness</category>
+  <lj:mood>In search of a misson</lj:mood>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+<item>
+  <guid isPermaLink='true'>http://whitez.livejournal.com/58243.html</guid>
+  <pubDate>Fri, 02 Oct 2009 11:53:42 GMT</pubDate>
+  <title>New invention.</title>
+  <link>http://whitez.livejournal.com/58243.html</link>
+  <description>Researchers from Japan’s ATR Computational Neuroscience Laboratories have developed new brain analysis technology that can reconstruct the images inside a person’s mind and display them on a computer monitor, it was announced on December 11. According to the researchers, further development of the technology may soon make it possible to view other people’s dreams while they sleep.&lt;br /&gt;&lt;br /&gt;Read that again.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.pinktentacle.com/2008/12/scientists-extract-images-directly-from-brain/&quot; rel=&quot;nofollow&quot;&gt;http://www.pinktentacle.com/2008/12/scientists-extract-images-directly-from-brain/&lt;/a&gt;</description>
+  <comments>http://whitez.livejournal.com/58243.html</comments>
+  <lj:security>public</lj:security>
+  <lj:reply-count>0</lj:reply-count>
+</item>
+</channel>
+</rss>

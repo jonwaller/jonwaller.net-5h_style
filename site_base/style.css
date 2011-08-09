@@ -1,0 +1,86 @@
+﻿body{
+	background:url(top_grey.png) repeat-x;
+	margin-top: 5em;
+	margin-bottom: 5em;
+	text-align: center; /* for IE */
+	font-family: Helvetica,Meiryo,Verdana,Hiragino Kaku Gothic,MS Gothic,sans-serif; 
+	/* Sans serif. In preference order. 
+	Helvetica=Mac default, Verdana=Win default, Meiryo=JA Vista UI, Hiragino Kaku Gothic = JA Mac default, MS Gothic=JA Win XP, sans-serif=Default failover */
+}
+#content {
+	width: 50em;
+	margin: 0 auto;   /* align for good browsers */
+	text-align: left; /* counter the body center */
+}
+a {color:#ff8800;text-decoration:none}
+a:hover {color:#ff8800;text-decoration:underline}
+a:visited {color:#ff8800}
+a:active {color:#ff8800}
+
+img{
+	border:0;
+}
+table td{
+	vertical-align: top;
+	text-align:justify;
+}
+hr{
+	border:0;
+	color:black;
+	background-color: black;
+	height:1px;
+}
+h1{	
+	font-size: 5em;
+}
+h2{	
+	font-size:2em;
+	font-weight:normal;
+}
+h3{	
+	font-size: 1em;
+}
+div.nav{
+	text-align:right;
+}
+div.nav ul{
+	display: inline;
+}
+div.nav ul li{
+	display: inline;
+}
+div.nav ul li.activepage{
+	/*Never a link - so padding here is OK*/
+	color:black;
+	background-color:lightgrey;
+	font-weight:bold;
+	padding:0.5em;
+}
+div.nav ul li a{
+	text-decoration:none;
+	color:black;
+	background-color:white;
+	padding:0.5em;
+}
+div.nav ul li a:hover{
+	color:white;
+	background-color:black;
+	display: inline;
+}
+.infobox{
+	line-height:200%;
+}
+.infobox table td{
+	line-height:200%;
+}
+#roles{
+
+}
+td.rightcolumn{
+	text-align:center;
+	width:1%;
+	padding-left:2em;
+}
+small {
+
+}
