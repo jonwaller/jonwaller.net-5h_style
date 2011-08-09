@@ -1,10 +1,10 @@
 <?
 $navlinks = array (
 "/en/"=>"Home",
-"/en/bio/"=>"Bio",
-"/en/work/"=>"Work",
-"/en/play/"=>"Play",
-"/en/contact/"=>"Contact"
+"/en/bio/"=>"Bio", //Build trust
+"/en/work/"=>"Work", //How I can help them / Care about them
+//"/en/play/"=>"Play",
+"/en/contact/"=>"Contact"//email and social?
 );
 
 ?>

@@ -1,27 +1,4 @@
 ﻿<html>
-<!--
-history
-skills (build trust)
-experience
-abilities
-
-connect
--be vunrable
--listen
--it's how you make them feel
--talk to them 1 to 1 
-or 1 to 2
--be yourself, no pedestal
-"i'm a human, this is what i feel"
-
-how i can help you
-
-
----
-
-
-really liking yourself. really, truly connecting. really caring about others
--->
 	<?include "../site_base/functions.php";?>
 	<head>
 		<title>Jonathan Waller - JonWaller.net</title>
